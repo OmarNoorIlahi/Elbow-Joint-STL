@@ -1,5 +1,12 @@
 # Elbow-Joint-STL
-# Task Four – Mechanical Engineering Track
+
+## Table of Contents
+- [Overview](#overview)
+- [Methods](#methods)
+  - [Creality](#creality)
+  - [Printing Setting](#printing-setting)
+- [Material](#material)
+- [Features](#features)
 
 ---
 
@@ -13,9 +20,7 @@ This is Task Four in the Mechanical Engineering track, submitted to Smart Method
 
 First of all, the model is saved as an STL file format from SolidWorks. Then, it is inserted into Creality software. 
 
----
-
-## Creality
+### Creality
 
 Creality is a Chinese company specializing in 3D printing. The company develops its own 3D printers along with proprietary software. However, users are not required to own a Creality printer to install the software, as it is available for free. The program offers many features, including:  
 
@@ -26,9 +31,7 @@ Creality is a Chinese company specializing in 3D printing. The company develops 
 
 Regardless of these features, they can be modified based on the user’s purposes. 
 
----
-
-## Printing Setting
+### Printing Setting
 
 The following steps show the printing setting process with screenshots.
 
